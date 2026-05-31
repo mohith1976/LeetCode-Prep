@@ -1,0 +1,29 @@
+{
+  "submissions": {
+    "1-java": {
+      "questionId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 3,
+      "memory": 46972000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        }
+      ],
+      "folderName": "0001-two-sum",
+      "lastUpdated": 1780257303535
+    }
+  },
+  "lastUpdated": 1780257303535,
+  "version": "1.0.0"
+}
