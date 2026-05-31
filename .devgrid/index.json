@@ -22,8 +22,36 @@
       ],
       "folderName": "0001-two-sum",
       "lastUpdated": 1780257303535
+    },
+    "2-java": {
+      "questionId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 46364000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "linked-list",
+          "name": "Linked List"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0002-add-two-numbers",
+      "lastUpdated": 1780257442052
     }
   },
-  "lastUpdated": 1780257303535,
+  "lastUpdated": 1780257442052,
   "version": "1.0.0"
 }
