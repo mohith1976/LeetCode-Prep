@@ -50,8 +50,36 @@
       ],
       "folderName": "0002-add-two-numbers",
       "lastUpdated": 1780257442052
+    },
+    "3-java": {
+      "questionId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 5,
+      "memory": 45240000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "hash-table",
+          "name": "Hash Table"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "sliding-window",
+          "name": "Sliding Window"
+        }
+      ],
+      "folderName": "0003-longest-substring-without-repeating-characters",
+      "lastUpdated": 1780257460238
     }
   },
-  "lastUpdated": 1780257442052,
+  "lastUpdated": 1780257460238,
   "version": "1.0.0"
 }
