@@ -43,8 +43,8 @@ Explanation: The smallest positive integer 1 is missing.
 ## Submission
 
 **Language:** java  
-**Runtime:** 14 ms (22.50%)  
-**Memory:** 88.9 MB (6.44%)  
+**Runtime:** 13 ms (29.01%)  
+**Memory:** 89.3 MB (6.44%)  
 **Submitted:** 2026-06-01
 
 ## Solution
