@@ -41,7 +41,7 @@ Output: 21
 
 **Language:** java  
 **Runtime:** 1 ms (99.98%)  
-**Memory:** 40.8 MB (26.75%)  
+**Memory:** 40.5 MB (78.70%)  
 **Submitted:** 2026-06-01
 
 ## Solution
