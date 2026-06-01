@@ -78,8 +78,26 @@
       ],
       "folderName": "0003-longest-substring-without-repeating-characters",
       "lastUpdated": 1780257460238
+    },
+    "7-java": {
+      "questionId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 1,
+      "memory": 42756000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        }
+      ],
+      "folderName": "0007-reverse-integer",
+      "lastUpdated": 1780290050991
     }
   },
-  "lastUpdated": 1780257460238,
+  "lastUpdated": 1780290050991,
   "version": "1.0.0"
 }
