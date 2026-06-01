@@ -86,7 +86,7 @@
       "difficulty": "Medium",
       "language": "java",
       "runtime": 1,
-      "memory": 42756000,
+      "memory": 42436000,
       "topics": [
         {
           "tagId": "topic-0",
@@ -95,9 +95,9 @@
         }
       ],
       "folderName": "0007-reverse-integer",
-      "lastUpdated": 1780290050991
+      "lastUpdated": 1780293622207
     }
   },
-  "lastUpdated": 1780290050991,
+  "lastUpdated": 1780293622207,
   "version": "1.0.0"
 }
