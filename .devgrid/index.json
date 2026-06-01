@@ -103,8 +103,8 @@
       "slug": "first-missing-positive",
       "difficulty": "Hard",
       "language": "java",
-      "runtime": 14,
-      "memory": 93264000,
+      "runtime": 13,
+      "memory": 93612000,
       "topics": [
         {
           "tagId": "topic-0",
@@ -118,9 +118,9 @@
         }
       ],
       "folderName": "0041-first-missing-positive",
-      "lastUpdated": 1780295620214
+      "lastUpdated": 1780305561886
     }
   },
-  "lastUpdated": 1780295620214,
+  "lastUpdated": 1780305561886,
   "version": "1.0.0"
 }
