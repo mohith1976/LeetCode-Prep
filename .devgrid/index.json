@@ -119,8 +119,36 @@
       ],
       "folderName": "0041-first-missing-positive",
       "lastUpdated": 1780326313803
+    },
+    "43-java": {
+      "questionId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 3,
+      "memory": 43796000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "folderName": "0043-multiply-strings",
+      "lastUpdated": 1780507423340
     }
   },
-  "lastUpdated": 1780326313803,
+  "lastUpdated": 1780507423340,
   "version": "1.0.0"
 }
