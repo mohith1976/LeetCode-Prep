@@ -33,9 +33,9 @@ Output: "56088"
 ## Submission
 
 **Language:** java  
-**Runtime:** 3 ms (80.45%)  
-**Memory:** 41.8 MB (35.87%)  
-**Submitted:** 2026-06-03
+**Runtime:** 3 ms (80.53%)  
+**Memory:** 41.8 MB (24.57%)  
+**Submitted:** 2026-06-04
 
 ## Solution
 
