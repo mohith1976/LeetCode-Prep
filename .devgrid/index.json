@@ -147,8 +147,36 @@
       ],
       "folderName": "0043-multiply-strings",
       "lastUpdated": 1780688641887
+    },
+    "10-java": {
+      "questionId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "difficulty": "Hard",
+      "language": "java",
+      "runtime": 1,
+      "memory": 43104000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "string",
+          "name": "String"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "dynamic-programming",
+          "name": "Dynamic Programming"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "recursion",
+          "name": "Recursion"
+        }
+      ],
+      "folderName": "0010-regular-expression-matching",
+      "lastUpdated": 1780749704952
     }
   },
-  "lastUpdated": 1780688641887,
+  "lastUpdated": 1780749704952,
   "version": "1.0.0"
 }
