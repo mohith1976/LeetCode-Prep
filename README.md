@@ -5,10 +5,10 @@ Automated LeetCode solutions synchronized to GitHub.
 ## Statistics
 
 ```
-Total Solved    6
+Total Solved    7
 Easy            1
 Medium          4
-Hard            1
+Hard            2
 ```
 
 ## Languages
@@ -21,23 +21,25 @@ java            ████████████████████ 100
 
 ```
  1. Hash Table                     3
- 2. Math                           3
- 3. Array                          2
- 4. String                         2
- 5. Linked List                    1
- 6. Recursion                      1
- 7. Sliding Window                 1
- 8. Simulation                     1
+ 2. String                         3
+ 3. Math                           3
+ 4. Array                          2
+ 5. Recursion                      2
+ 6. Dynamic Programming            1
+ 7. Linked List                    1
+ 8. Sliding Window                 1
+ 9. Simulation                     1
 ```
 
 ## Recent Activity
 
 |   | Problem | Language | Date |
 |---|---------|----------|------|
-| ● | [Two Sum](./0001-two-sum) | java | 2026-06-05 |
-| ● | [Add Two Numbers](./0002-add-two-numbers) | java | 2026-06-05 |
-| ● | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | java | 2026-06-05 |
-| ● | [Reverse Integer](./0007-reverse-integer) | java | 2026-06-05 |
+| ● | [Two Sum](./0001-two-sum) | java | 2026-06-06 |
+| ● | [Add Two Numbers](./0002-add-two-numbers) | java | 2026-06-06 |
+| ● | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | java | 2026-06-06 |
+| ● | [Reverse Integer](./0007-reverse-integer) | java | 2026-06-06 |
+| ● | [Regular Expression Matching](./0010-regular-expression-matching) | java | 2026-06-06 |
 | ● | [Multiply Strings](./0043-multiply-strings) | java | 2026-06-05 |
 | ● | [First Missing Positive](./0041-first-missing-positive) | java | 2026-06-01 |
 
@@ -55,4 +57,4 @@ Example: `0001-two-sum/README.md`
 
 ---
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
