@@ -127,7 +127,7 @@
       "difficulty": "Medium",
       "language": "java",
       "runtime": 3,
-      "memory": 43592000,
+      "memory": 43404000,
       "topics": [
         {
           "tagId": "topic-0",
@@ -146,7 +146,7 @@
         }
       ],
       "folderName": "0043-multiply-strings",
-      "lastUpdated": 1780688641887
+      "lastUpdated": 1780810753339
     },
     "10-java": {
       "questionId": "10",
@@ -177,6 +177,6 @@
       "lastUpdated": 1780749704952
     }
   },
-  "lastUpdated": 1780749704952,
+  "lastUpdated": 1780810753339,
   "version": "1.0.0"
 }
