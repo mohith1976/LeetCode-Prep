@@ -203,8 +203,36 @@
       ],
       "folderName": "0011-container-with-most-water",
       "lastUpdated": 1782717193741
+    },
+    "11-java": {
+      "questionId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": 5,
+      "memory": 77336000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "greedy",
+          "name": "Greedy"
+        }
+      ],
+      "folderName": "0011-container-with-most-water",
+      "lastUpdated": 1782718041930
     }
   },
-  "lastUpdated": 1782717193741,
+  "lastUpdated": 1782718041930,
   "version": "1.0.0"
 }
