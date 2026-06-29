@@ -231,8 +231,31 @@
       ],
       "folderName": "0011-container-with-most-water",
       "lastUpdated": 1782718041930
+    },
+    "2099-java": {
+      "questionId": "2099",
+      "title": "Number Of Strings That Appear As Substrings In Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 1,
+      "memory": 42704000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "string",
+          "name": "String"
+        }
+      ],
+      "folderName": "2099-number-of-strings-that-appear-as-substrings-in-word",
+      "lastUpdated": 1782718456171
     }
   },
-  "lastUpdated": 1782718041930,
+  "lastUpdated": 1782718456171,
   "version": "1.0.0"
 }
