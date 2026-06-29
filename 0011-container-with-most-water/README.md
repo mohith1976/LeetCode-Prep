@@ -37,38 +37,44 @@ Output: 1
 
 ## Submission
 
-**Language:** python3  
-**Runtime:** 63 ms (26.29%)  
-**Memory:** 28.3 MB (14.03%)  
+**Language:** java  
+**Runtime:** 5 ms (82.39%)  
+**Memory:** 73.8 MB (48.47%)  
 **Submitted:** 2026-06-29
 
 ## Solution
 
-```python
-class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        max_water = 0
-        left = 0
-        right = len(height) - 1
+```java
+class Solution {
+    public int maxArea(int[] height) {
         
-        while left < right:
-            # Width is the horizontal distance between the two vertical lines
-            width = right - left
-            
-            # The height of the water is limited by the shorter of the two lines
-            current_height = min(height[left], height[right])
-            
-            # Calculate the area and update max_water if this container holds more
-            current_water = width * current_height
-            max_water = max(max_water, current_water)
-            
-            # Strategically move the pointer pointing to the shorter line inward
-            if height[left] < height[right]:
-                left += 1
-            else:
-                right -= 1
+        int n = height.length;
+        int i = 0;
+        int j = n-1;
+        int max_area = 0;
+
+        while(i<j)
+        {
+            if(height[i]>height[j])
+            {
+                max_area = Math.max(Math.min(height[i],height[j])*(j-i), max_area);
+                j--;
                 
-        return max_water
+                 
+            }else 
+            {
+                max_area = Math.max(Math.min(height[i],height[j])*(j-i), max_area);
+                i++;
+                
+            }
+           
+             
+
+           
+        }
+        return max_area;
+    }
+}
 ```
 
 ---
