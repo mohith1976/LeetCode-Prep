@@ -254,8 +254,41 @@
       ],
       "folderName": "2099-number-of-strings-that-appear-as-substrings-in-word",
       "lastUpdated": 1782718464241
+    },
+    "455-java": {
+      "questionId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": 15,
+      "memory": 51356000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "greedy",
+          "name": "Greedy"
+        },
+        {
+          "tagId": "topic-3",
+          "slug": "sorting",
+          "name": "Sorting"
+        }
+      ],
+      "folderName": "0455-assign-cookies",
+      "lastUpdated": 1782718975283
     }
   },
-  "lastUpdated": 1782718464241,
+  "lastUpdated": 1782718975283,
   "version": "1.0.0"
 }
